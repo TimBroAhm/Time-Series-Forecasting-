@@ -80,6 +80,3 @@ Author
 
 Tim (@TimBroAhm)
 
-License
-
-Add a license (e.g., MIT) to clarify how others can use this work.
